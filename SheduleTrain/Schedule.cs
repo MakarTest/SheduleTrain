@@ -70,6 +70,10 @@ namespace SheduleTrain
             this.groupNumber = groupNumber;
         }
 
+        public string ToRus(string f)
+        {
+            return "jhgj";
+        }
 
         public override string ToString()
         {
